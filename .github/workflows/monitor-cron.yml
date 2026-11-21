@@ -32,4 +32,4 @@ jobs:
             --request POST \
             --header "Authorization: Bearer ${CRON_SECRET}" \
             "${CRON_ENDPOINT_URL}"
-```<|end|><|start|>write to=assistant<|channel|>analysis<|message|>Created file successfully: .github/workflows/monitor-cron.yml
+<|end|><|start|>write to=assistant<|channel|>analysis<|message|>Created file successfully: .github/workflows/monitor-cron.yml
